@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2Recursiveness/2Recursiveness.iml" filepath="$PROJECT_DIR$/2Recursiveness/2Recursiveness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3Functions/3Functions.iml" filepath="$PROJECT_DIR$/3Functions/3Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funktional.iml" filepath="$PROJECT_DIR$/funktional.iml" />
+    </modules>
+  </component>
+</project>
