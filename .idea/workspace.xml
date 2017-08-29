@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9775f41c-02d7-42ae-838a-0c70702ff635" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2Recursiveness/2Recursiveness.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2Recursiveness/src/com/josedlpozo/recursiveness/Playground.kt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3Functions/3Functions.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/CurryingPlayground.kt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/PartialApplicationFunctionsPlayground.kt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/Playground.kt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/funktional.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/2Recursiveness/META-INF/2Recursiveness.kotlin_module" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/3Functions/META-INF/3Functions.kotlin_module" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/funktional/META-INF/funktional.kotlin_module" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/PartialApplicationFunctionsPlayground.kt" afterPath="$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/PartialApplicationFunctionsPlayground.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,18 +21,28 @@
       <file leaf-file-name="Standard.kt" pinned="false" current-in-tab="false">
         <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/util/Standard.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="24" lean-forward="false" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+            <state relative-caret-position="263">
+              <caret line="54" column="19" lean-forward="false" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="CurryingPlayground.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/CurryingPlayground.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PartialApplicationFunctionsPlayground.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/PartialApplicationFunctionsPlayground.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -76,8 +76,8 @@
         <option value="$PROJECT_DIR$/2Recursiveness/src/com/josedlpozo/recursiveness/Playground.kt" />
         <option value="$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/Playground.kt" />
         <option value="$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/CurryingPlayground.kt" />
-        <option value="$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/PartialApplicationFunctionsPlayground.kt" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/PartialApplicationFunctionsPlayground.kt" />
       </list>
     </option>
   </component>
@@ -116,6 +116,41 @@
             <path>
               <item name="funktional" type="b2602c69:ProjectViewProjectNode" />
               <item name="funktional" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funktional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funktional" type="462c0819:PsiDirectoryNode" />
+              <item name="3Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funktional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funktional" type="462c0819:PsiDirectoryNode" />
+              <item name="3Functions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funktional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funktional" type="462c0819:PsiDirectoryNode" />
+              <item name="3Functions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funktional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funktional" type="462c0819:PsiDirectoryNode" />
+              <item name="3Functions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="josedlpozo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="funktional" type="b2602c69:ProjectViewProjectNode" />
+              <item name="funktional" type="462c0819:PsiDirectoryNode" />
+              <item name="3Functions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="josedlpozo" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -559,15 +594,16 @@
       <workItem from="1503919986793" duration="1534000" />
       <workItem from="1503922137272" duration="1913000" />
       <workItem from="1503935949260" duration="1240000" />
-      <workItem from="1504002196643" duration="1000" />
+      <workItem from="1504002196643" duration="177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20748000" />
+    <option name="totallyTimeSpent" value="20924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="534" y="896" width="1920" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -597,6 +633,9 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -694,24 +733,38 @@
     <entry file="file://$PROJECT_DIR$/src/com/josedlpozo/funktional/datatypes/Option.kt" />
     <entry file="file://$PROJECT_DIR$/src/com/josedlpozo/funktional/Functor.kt" />
     <entry file="file://$PROJECT_DIR$/src/com/josedlpozo/funktional/Monad.kt" />
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/util/Standard.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="24" lean-forward="false" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/josedlpozo/funktional/Main.kt" />
     <entry file="file://$PROJECT_DIR$/src/com/josedlpozo/funktional/datatypes/Option.kt" />
     <entry file="file://$PROJECT_DIR$/2Recursiveness/src/com/josedlpozo/recursiveness/Playground.kt" />
     <entry file="file://$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/Playground.kt" />
-    <entry file="file://$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/CurryingPlayground.kt" />
-    <entry file="file://$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/PartialApplicationFunctionsPlayground.kt" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/util/Standard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="54" column="19" lean-forward="false" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/CurryingPlayground.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3Functions/src/com/josedlpozo/functions/PartialApplicationFunctionsPlayground.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
